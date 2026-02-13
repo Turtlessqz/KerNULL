@@ -13,7 +13,7 @@ KerNULL OS is a minimal x86 hobby operating system written in C, featuring a bas
 - Commands:
   - `help` — list available commands  
   - `clear` — clear the framebuffer  
-  - `ver` — draw colored rectangles  
+  - `ver` — state current build version
 ---
 
 ## Build Instructions
