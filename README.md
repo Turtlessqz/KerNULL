@@ -13,13 +13,12 @@ KerNULL OS is a minimal x86 hobby operating system written in C, featuring a bas
 - Commands:
   - `help` — list available commands  
   - `clear` — clear the framebuffer  
-  - `red`, `green`, `blue` — draw colored rectangles  
-
+  - `ver` — draw colored rectangles  
 ---
 
 ## Build Instructions
 
-You need an **i686-elf toolchain** (GCC + binutils) installed. On Arch Linux, you can use:
+You need an **i686-elf toolchain** (GCC + binutils) installed. On Arch Linux, you can use (for the Arch Linux tweaks):
 
 ```bash
 sudo pacman -S base-devel i686-elf-gcc i686-elf-binutils qemu grub
